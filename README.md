@@ -15,8 +15,7 @@ I have a background in data analytics and marketing, and I'm proficient in SQL, 
 Here's a brief overview of the projects you'll find in this portfolio:
 
 - **Amazon Dashboard**: The Amazon Dashboard provides a comprehensive view of key performance indicators such as total revenue, profit, orders, products, and average ratings, along with visualizations for revenue trends, top product subcategories, delivery timelines, and geographic revenue distribution.
-- **Project 2**: [Brief description of Project 2]
-- **Project 3**: [Brief description of Project 3]
+- **Project 2**: This Power BI project analyzes hotel booking data to uncover trends in guest behavior, booking dynamics, and cancellations, providing actionable insights to help hotel management optimize operations and enhance guest experiences.
 - ...
 
 Each project comes with detailed documentation, code, and any necessary datasets or resources. Feel free to explore, learn, and provide feedback!
