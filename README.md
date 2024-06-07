@@ -14,7 +14,7 @@ I have a background in data analytics and marketing, and I'm proficient in SQL, 
 
 Here's a brief overview of the projects you'll find in this portfolio:
 
-- **Project 1**: [Brief description of Project 1]
+- **Amazon Dashboard**: [The Amazon Dashboard provides a comprehensive view of key performance indicators such as total revenue, profit, orders, products, and average ratings, along with visualizations for revenue trends, top product subcategories, delivery timelines, and geographic revenue distribution.]
 - **Project 2**: [Brief description of Project 2]
 - **Project 3**: [Brief description of Project 3]
 - ...
