@@ -1,4 +1,4 @@
-# Welcome to My Analytics Engineer Portfolio!
+# Welcome to My Data Analytics Portfolio!
 
 ## Hello Everyone! 👋
 
